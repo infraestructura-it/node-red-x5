@@ -1,0 +1,11 @@
+{
+    "projects": {
+        "node-red-ejemplo": {
+            "credentialSecret": false
+        },
+        "pruebas": {
+            "credentialSecret": false
+        }
+    },
+    "activeProject": "pruebas"
+}
